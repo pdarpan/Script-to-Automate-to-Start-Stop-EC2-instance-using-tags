@@ -1,7 +1,5 @@
-# AWS Lambda EC2 Instance Scheduler
-
 ## Overview
-This repository contains AWS Lambda functions to automatically start and stop EC2 instances on a schedule using tags. The solution helps optimize costs by running instances only when needed.
+This repository contains AWS Lambda functions to automatically start and stop EC2 instances on a schedule using tags. The solution helps optimize costs by running instances having tags only when needed. 
 
 ## Repository Contents
 - `start_ec2.py`: Lambda function to start tagged EC2 instances
